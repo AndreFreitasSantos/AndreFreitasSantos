@@ -1,7 +1,7 @@
 ## Hello world! Eu sou o André Santos!
 
 - 🔭 Estudo no CEFET-MG
-- 🤔 Estou estudando atualmente: python/java 
+- 🤔 Estou estudando atualmente: python/java/flutter/GML
 - 📫 Email: santos.andref17@gmail.com
 - 😄 Pronouns: Ele/Dele
   
