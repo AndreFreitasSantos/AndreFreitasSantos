@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresantosf&label=Profile%20views&color=0e75b6&style=flat" alt="andresantosf" /> </p>
 
 - 🔭 Estudo no CEFET-MG
-- 🤔 Estou estudando atualmente: python/java/flutter/GML
 - 📫 Email: santos.andref17@gmail.com
   
  <div>
