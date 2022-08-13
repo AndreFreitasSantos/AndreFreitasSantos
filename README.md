@@ -33,17 +33,9 @@
    
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    
-  <a href="https://www.figma.com/" target="_blank">
-    <img align="center" alt="figma" width="30" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> 
-  </a> 
-   
 <a href="https://www.linux.org/" target="_blank"> 
   <img align="center" alt="linux" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 </a> 
-   
-<a href="https://www.photoshop.com/en" target="_blank"> 
-  <img align="center" alt="photoshop" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/> 
-</a>
    
   
 </div>
