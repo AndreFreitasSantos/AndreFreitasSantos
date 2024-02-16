@@ -1,7 +1,7 @@
 ## Hello world! Eu sou o André Santos!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresantosf&label=Profile%20views&color=0e75b6&style=flat" alt="andresantosf" /> </p>
 
-- 🔭 Estudo no CEFET-MG
+- 🔭 CEFET-MG
 - 📫 Email: santos.andref17@gmail.com
   
  <div>
