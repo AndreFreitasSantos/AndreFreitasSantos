@@ -1,13 +1,19 @@
 ## Hello world! Eu sou André Santos!
-<a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<div>
+<a href="maleto:santos.andref17@gmail.com" style="display: inline;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> 
 
-<a><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://wa.me/37991023322" style="display: inline;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresantosf&label=Profile%20views&color=0e75b6&style=flat" alt="andresantosf" /> </p>
 
 - 🔭 CEFET-MG
-- 📫 Email: santos.andref17@gmail.com
   
  <div>
   <a href="https://github.com/AndreFreitasSantos">
