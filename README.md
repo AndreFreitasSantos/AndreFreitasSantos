@@ -1,4 +1,5 @@
-## Hello world! Eu sou o André Santos!
+## Hello world! Eu sou André Santos!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresantosf&label=Profile%20views&color=0e75b6&style=flat" alt="andresantosf" /> </p>
 
 - 🔭 CEFET-MG
@@ -8,33 +9,21 @@
   <a href="https://github.com/AndreFreitasSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresantosf&layout=compact&langs_count=7&theme=dark"/>
 </div>
+    
+  <h3>Linguagens e Tecnologias:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,c,py,java,mysql,firebase" />
+  </a>
+  <h3>Framewowks:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,nodejs,spring" />
+  </a>
+
+  <h3>Ferramentas e Plataformas:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,spring,eclipse,vscode,figma,jenkins,postman,npm,pycharm,ps,gamemakerstudio" />
+  </a>
   
   ##
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg">
-   
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
-  <a href="https://getbootstrap.com" target="_blank"> 
-      <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
-  </a> 
-   
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img align="center" alt="c" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-  </a> 
-   
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg">
-   
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
-<a href="https://www.linux.org/" target="_blank"> 
-  <img align="center" alt="linux" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-</a> 
-   
   
 </div>
