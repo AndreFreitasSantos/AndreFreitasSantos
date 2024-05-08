@@ -10,16 +10,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresantosf&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
-  <h3>Linguagens e Tecnologias:</h3>
+  <h2>Linguagens e Tecnologias:</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,c,py,java,mysql,firebase" />
   </a>
-  <h3>Framewowks:</h3>
-  <a href="https://skillicons.dev">
+  <h2>Frameworks:</h2>
+  <p><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,nodejs,spring" />
-  </a>
+  </a></p>
 
-  <h3>Ferramentas e Plataformas:</h3>
+  <h2>Ferramentas e Plataformas:</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,spring,eclipse,vscode,figma,jenkins,postman,npm,pycharm,ps,gamemakerstudio" />
   </a>
