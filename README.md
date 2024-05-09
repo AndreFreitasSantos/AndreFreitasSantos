@@ -1,7 +1,7 @@
 ## Hello world! Eu sou André Santos!
 
 <div>
-<a href="maleto:santos.andref17@gmail.com" style="display: inline;">
+<a href="mailto:santos.andref17@gmail.com" style="display: inline;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> 
 
